@@ -197,6 +197,10 @@
 
 ## 论文写作
 
+### 写作指导
+
+[论文写作分步骤教学](https://github.com/secdr/research-method)
+
 ### LaTeX 模板
 
 包括论文、报告、海报等在内的各种 LaTeX 模板。
