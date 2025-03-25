@@ -349,6 +349,10 @@
 
 ## 其他
 
+### 优质资源
+- [武汉大学金融科技研讨班](https://github.com/WHUFT/WHU_FinTech_Workshop)
+- [深度学习论文精读 By Limu](https://github.com/mli/paper-reading?tab=readme-ov-file)
+
 ### 专利检索
 
 * [Google Patents](https://iseex.github.io//2020-05/Google-Patents/)：免费检索和下载中英文专利。具体可见 [Google Patents，免费检索和下载中英文专利的最佳工具！](https://iseex.github.io//2020-05/Google-Patents/)。
