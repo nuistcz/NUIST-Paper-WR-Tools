@@ -352,6 +352,7 @@
 ### 优质资源
 - [武汉大学金融科技研讨班](https://github.com/WHUFT/WHU_FinTech_Workshop)
 - [深度学习论文精读 By Limu](https://github.com/mli/paper-reading?tab=readme-ov-file)
+- [优质博主](https://github.com/kaixindelele/2025-Awesome-AI-Bloggers)
 
 ### 专利检索
 
